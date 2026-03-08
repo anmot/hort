@@ -12,14 +12,14 @@
     body: "Lato",
     math: "Lete Sans Math"
   ),
-  // theme: classic,
+  theme: classic,
   // theme: fancy,
   // theme: modern,
   // theme: orly,
   // theme: pretty,
   // tufte: true,
   lang: "zh",
-  // colors: config-colors,
+  colors: config-colors,
   title-page: book-title-page(
     series: "Typst book series",
     institution: "Typst community",
@@ -53,7 +53,7 @@
 
 #include "appendix/app_main.typ"
 
-// #bibliography("bibliography/sample.yml")
+//#bibliography("bibliography/sample.yml")
 #bibliography("bibliography/sample.bib")
 
 #let abstracts-fr-en = (
