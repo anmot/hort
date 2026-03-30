@@ -19,9 +19,26 @@ Il nome "citrus" deriva dal latino "citrus", che a sua volta deriva dal greco "k
 
 georgia peach festival - https://en.wikipedia.org/wiki/Georgia_Peach_Festival
 
+Georgia peach - https://en.wikipedia.org/wiki/Georgia_peach 
 
+https://en.wikipedia.org/wiki/Peach_County,_Georgia
 
+Weinberger, Eric D. "The Peach and the Pit: The Symbolism of the Peach in Chinese Culture." Journal of Chinese Literature and Culture 3, no. 1 (2016): 1-20.
 
+https://www.google.com/search?client=safari&rls=en&q=Weinberger%2C+Eric+D.+%22The+Peach+and+the+Pit%3A+The+Symbolism+of+the+Peach+in+Chinese+Culture.%22+Journal+of+Chinese+Literature+and+Culture+3%2C+no.+1+(2016)%3A+1-20.&ie=UTF-8&oe=UTF-8
+
+Eric D. Weinberger’s "The Peach and the Pit: The Symbolism of the Peach in Chinese Culture," published in the Journal of Chinese Literature and Culture (2016), explores the multifaceted cultural, literary, and mythological significance of the peach (桃, táo) in China. The article traces how this fruit, its blossom, and the wood of its tree evolved from a simple food item into a profound symbol of immortality, longevity, protection against evil, and fertility.
+Key aspects of peach symbolism explored by Weinberger and supported by general cultural knowledge include:
+Immortality and the Queen Mother of the West: The most famous association is with the "Peaches of Immortality" (xiāntáo) grown by the Queen Mother of the West (Xiwangmu) in her Kunlun Mountain garden. These legendary peaches, which ripen only once every few thousand years, are consumed by deities and immortals to ensure their eternal life.
+Symbolism of Longevity: Due to the legend of immortality, peaches and peach-shaped items are symbols of a long, healthy life, frequently used as birthday gifts for elders.
+
+Warding Off Evil (Apotropaic Function): The peach tree, particularly its wood, is considered sacred and capable of driving away evil spirits and demons. Historically, peach-wood bows and wands were used to dispel malignant forces.
+Literary Significance ("Peach Blossom Spring"): The peach is immortalized in literature, most notably in Tao Yuanming’s "The Peach Blossom Spring," which created the archetypal Chinese image of a secluded, utopian paradise (桃花源).
+Fertility and Springtime: Because peach trees blossom in early spring—a time associated with renewal—they symbolize marriage, love, and fertility, and are often featured in weddings. 
+
+https://issuu.com/sister_magazine/docs/en_sistermag30_3/s/121925
+
+== internet culture and emoji
 
 https://en.wikipedia.org/wiki/Peach_emoji
 
@@ -36,6 +53,7 @@ https://www.theguardian.com/technology/2016/nov/16/everything-is-peachy-as-apple
 https://emojipedia.org/peach
 
 
+== albero mitologico - immortale, simbolo di longevità, immortalità, fertilità, protezione contro il male
 
 Pesco (桃) - https://zh-yue.wikipedia.org/wiki/桃樹 
 Peach: (Chinese: 桃; pinyin: táo) - https://zh-yue.wikipedia.org/wiki/桃樹
