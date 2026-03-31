@@ -1,8 +1,22 @@
-
+= il pesco
 
 == albero semplice, elementare
 
-fiore rosacee
+Fiore tipico delle rosacee, elementare, che potrebbe essere disegnato da un bambino; frutto semplice, a drupa, nodi semplici, foglie semplici, fiori semplici.
+
+Gemme a fiore o a legno, ma sempre semplici, senza ramificazioni complesse o strutture intricate.
+
+Un buon esempio di albero semplice è il pesco, che ha una struttura relativamente semplice e lineare, con rami che crescono in modo ordinato e senza molte ramificazioni complesse. Le foglie sono semplici, con una forma ovale e margini seghettati, e i fiori sono grandi e vistosi, con cinque petali di colore rosa o bianco. Il frutto è una drupa, con una buccia sottile e vellutata e una polpa dolce e succosa. Nel complesso, il pesco è un albero che incarna la semplicità nella sua forma, struttura e utilizzo. 
+
+Una specie che consente un 'avvio' nella conoscenza dell'arboricoltura, della botanica, della frutticoltura, dell'agricoltura, della storia naturale, della cultura popolare, della mitologia, della simbologia, dell'arte, della letteratura, della gastronomia, della medicina tradizionale, dell'economia agricola e del commercio internazionale.
+
+
+== dormienza e modelli
+
+modello di dormienza del pesco - https://www.researchgate.net/publication/327441419_Dormancy_and_chilling_requirements_of_peach_trees_in_the_Mediterranean_region   
+
+modelli utilizzati in numerose specie anche se distanti tra loro, anche per scenari di cambiamento climatico - https://www.researchgate.net/publication/327441419_Dormancy_and_chilling_requirements_of_peach_trees_in_the_Mediterranean_region
+
 
 == origine
 
