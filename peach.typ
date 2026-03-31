@@ -118,6 +118,7 @@ pantao, in Chinese Daoist mythology, the peach of immortality that grew in the g
 
 https://www.researchgate.net/publication/301398270_On_the_Decoration_and_Symbolization_of_Chinese_Ancient_Official_Uniform_in_Ming_and_Qing_Dynasties
 
+https://www.researchgate.net/publication/323262200_Research_and_Analysis_of_the_Image_of_Peach_in_Ancient_Chinese_Literature
 
 https://en.wikipedia.org/wiki/Trees_in_Chinese_mythology
 
