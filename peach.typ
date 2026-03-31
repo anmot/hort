@@ -145,9 +145,9 @@ https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps
 
 == Peaches and Their Cultural Significance
 
-https://issuu.com/sister_magazine/docs/en_sistermag30_3/s/121925
+https://www.historians.org/perspectives-article/the-peach-tree-september-2022/
 
-https://www.historians.org/perspectives-article/the-peach-tree-september-2022/#:~:text=In%20Chinese%20culture%2C%20the,xianguo%20仙果)—a%20peach.
+https://issuu.com/sister_magazine/docs/en_sistermag30_3/s/121925
 
 https://spiceboxtravels.com/tag/peaches-in-chinese-culture/
 
