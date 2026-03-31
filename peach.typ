@@ -19,9 +19,14 @@ Il nome "citrus" deriva dal latino "citrus", che a sua volta deriva dal greco "k
 
 georgia peach festival - https://en.wikipedia.org/wiki/Georgia_Peach_Festival
 
+https://www.gapeachfestival.com/industry
+
 Georgia peach - https://en.wikipedia.org/wiki/Georgia_peach 
 
 https://en.wikipedia.org/wiki/Peach_County,_Georgia
+
+https://www.todayingeorgiahistory.org/tih-georgia-day/georgia-peach-official-state-fruit/
+
 
 Weinberger, Eric D. "The Peach and the Pit: The Symbolism of the Peach in Chinese Culture." Journal of Chinese Literature and Culture 3, no. 1 (2016): 1-20.
 
@@ -135,4 +140,55 @@ https://smitakislesvos.com/en/a-magic-garden/
 
 
 https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/fruit-mythology
+
+
+
+== Peaches and Their Cultural Significance
+
+https://issuu.com/sister_magazine/docs/en_sistermag30_3/s/121925
+
+https://www.historians.org/perspectives-article/the-peach-tree-september-2022/#:~:text=In%20Chinese%20culture%2C%20the,xianguo%20仙果)—a%20peach.
+
+https://spiceboxtravels.com/tag/peaches-in-chinese-culture/
+
+https://www.jadechocolates.com/single-post/2017/05/20/lucky-peach-a-chinese-symbol-of-all-things-good#:~:text=Sau%20is%20usually%20depicted%20holding,magic%20fruit%2C%20assuring%20their%20immortality.
+
+https://whitbychinesemedicine.ca/new-blog/2025/8/14/peaches-in-tcm
+
+https://www.zhihu.com/en/answer/800674580#:~:text=Peaches%20not%20only%20have%20high,%2C%20good%20luck%2C%20and%20longevity.
+Why are peaches often featured in ancient Chinese myths and novels?
+
+
+=== Bibbia
+
+https://www.google.com/search?client=safari&hs=KyH&sca_esv=8e9668447196fc90&rls=en&sxsrf=ANbL-n4N93zdbj17UnzB5AnSQCV7lRXDTA:1774960548624&q=What+do+peaches+symbolize+in+the+Bible&sa=X&ved=2ahUKEwjSvPank8qTAxUX5QIHHcsmA9IQ1QJ6BAhNEAE
+https://www.biblestudytools.com/dictionary/peach/
+https://www.biblestudytools.com/dictionary/fruit/
+https://www.biblestudytools.com/dictionary/fruit-of-the-spirit/
+
+In biblical symbolism, peaches generally represent the virtues of love, peace, joy, and compassion, often embodying the "fruit of the Spirit". Because of their sweetness and beauty, they can represent divine goodness and a youthful, innocent heart. Some interpretations also link peaches to redemption and the "second woman" (Virgin Mary) overcoming the fall. 
+Pinterest
+Pinterest
+ +2
+Key themes surrounding peaches in a biblical context include:
+Fruit of the Spirit: The peach serves as a metaphor for the fruits of the Holy Spirit (love, joy, peace, etc.), representing spiritual growth rather than human effort.
+Virtue and Redemption: Peaches are often seen as symbols of virtue and redemption, sometimes appearing in artistic renderings to signify the sweetness of salvation, as explained in this article on Christian Symbols.
+The Color Peach: The color itself is associated with God's mercy, grace, and a gentle, compassionate nature.
+God's Goodness and Grace: They are often viewed as a "sweet" gift from God, designed for enjoyment and gratitude.
+Fruitfulness and Growth: The peach tree's tendency to be prolific is used as a metaphor for productive, faithful living, as mentioned in this Pinterest post.
+Misconception regarding the Fall: While sometimes linked in folklore or modern thought to the "forbidden fruit" (often depicted as an apple, but not specified in Genesis), the peach specifically is rarely cited in traditional theological texts regarding the fall. 
+
+While the word "peach" does not appear in many common Bible translations, the fruit is embraced in Christian metaphor to describe positive, spiritual outcomes, as suggested in this Reformed Journal article. 
+
+
+https://reformedjournal.com/2021/08/25/the-peaches-of-paradise/
+
+https://vaporsinthewind.com/2017/05/02/peaches-and-the-bible/
+
+https://thebiblespeakstoyou.com/the-nine-fruits-of-the-spirit-and-your-spiritual-compost-pile/
+
+
+=== il frutto proibito
+
+https://www.marilenabeltramini.it/UserFiles/UTE/The_Peach.pdf
 
