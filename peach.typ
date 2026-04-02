@@ -63,6 +63,8 @@ https://en.wikipedia.org/wiki/Peach_emoji
 
 im🍑ment
 
+https://emojipedia.org/peach#technical
+
 https://www.dictionary.com/culture/emoji/peach-emoji
 
 https://www.theguardian.com/technology/shortcuts/2019/oct/02/peachy-the-emoji-thats-become-a-political-statement 
