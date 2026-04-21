@@ -1,3 +1,13 @@
+= ciliegio
+
+'cherry-picking'
+
+= susino
+
+Lee / Li / plum
+
+
+
 = il pesco
 
 == albero semplice, elementare
