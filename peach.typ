@@ -2,6 +2,11 @@
 
 'cherry-picking'
 
+sakura - ciliegio giapponese, simbolo di bellezza effimera, rinascita e transitorietà della vita. I fiori di sakura sono ammirati durante la stagione della fioritura, rappresentando la bellezza fugace e la fragilità dell'esistenza umana.
+
+https://www.infodata.ilsole24ore.com/2026/05/03/climate-change-cosa-sta-accadendo-alla-fioritura-dei-ciliegi-in-giappone/?utm_source=firefox-newtab-it-it&refresh_ce=1
+
+
 = susino
 
 Lee / Li / plum
